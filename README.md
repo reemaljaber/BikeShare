@@ -1,15 +1,12 @@
 ### Date created
-Include the date you created this project and README file.
-
+02.02.2021
 ### Project Title
-Replace the Project Title
+BikeShare Project
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project was developed for Programming for Data Scince class at Udacity university. Python script reads data from .csv files for either Washington, New York city or Chicago. Using interactive interface a user can choose the city and define some other parametrs to extract statistical information from the data
 
 ### Files used
-Include the files used
-
+bikeshare.py - chicago.csv - new_york_city.csv - washington.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+intro to python lectures for Programming for Data Science - Udacity
